@@ -1,0 +1,55 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="pl">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>plwiki</dbname>
+    <base>https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna</base>
+    <generator>MediaWiki 1.43.0-wmf.15</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="2" case="first-letter">Wikipedysta</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>AWK</title>
+    <ns>0</ns>
+    <id>2</id>
+    <revision>
+      <id>73999090</id>
+      <parentid>72872685</parentid>
+      <timestamp>2024-06-13T21:27:16Z</timestamp>
+      <contributor>
+        <username>MalarzBOT</username>
+        <id>31007</id>
+      </contributor>
+      <minor/>
+      <comment>MalarzBOT: likwiduję [[Specjalna:Błędy_składniowe/obsolete-tag|Błędy składniowe: Przestarzałe znaczniki HTML]]</comment>
+      <origin>73999090</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18475" sha1="5m2o6i1ml9m07j7d4d2fzk2jv4vixux" xml:space="preserve">Lorem ipsum dolor sit amet</text>
+      <sha1>5m2o6i1ml9m07j7d4d2fzk2jv4vixux</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Alergologia</title>
+    <ns>0</ns>
+    <id>4</id>
+    <revision>
+      <id>72667161</id>
+      <parentid>64646830</parentid>
+      <timestamp>2024-01-23T23:08:21Z</timestamp>
+      <contributor>
+        <username>AwganV13</username>
+        <id>740941</id>
+      </contributor>
+      <minor/>
+      <comment>aktualizacja</comment>
+      <origin>72667161</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1738" sha1="kpqc4ktsaj9rl6p6vqippnjx6wshqpj" xml:space="preserve">Lorem ipsum dolor sit amet</text>
+      <sha1>kpqc4ktsaj9rl6p6vqippnjx6wshqpj</sha1>
+    </revision>
+  </page>
+</mediawiki>
+

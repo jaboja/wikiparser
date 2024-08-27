@@ -26,7 +26,9 @@
       <origin>73999090</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="18475" sha1="5m2o6i1ml9m07j7d4d2fzk2jv4vixux" xml:space="preserve">Lorem ipsum dolor sit amet</text>
+      <text bytes="18475" sha1="5m2o6i1ml9m07j7d4d2fzk2jv4vixux" xml:space="preserve">
+          Lorem ipsum dolor sit&lt;ref name=&quot;utf8_ascii&quot;&gt;{{Cytuj stronę |tytuł=utf-8(7)&amp;nbsp;– Linux manual page |opublikowany=Man7.org |data=2014-02-26 |url=http://man7.org/linux/man-pages/man7/utf-8.7.html |data dostępu=2014-04-21 |język=en}}&lt;/ref&gt; amet
+      </text>
       <sha1>5m2o6i1ml9m07j7d4d2fzk2jv4vixux</sha1>
     </revision>
   </page>
@@ -47,7 +49,7 @@
       <origin>72667161</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1738" sha1="kpqc4ktsaj9rl6p6vqippnjx6wshqpj" xml:space="preserve">Lorem ipsum dolor sit amet</text>
+      <text bytes="1738" sha1="kpqc4ktsaj9rl6p6vqippnjx6wshqpj" xml:space="preserve">Another [[article]] text...</text>
       <sha1>kpqc4ktsaj9rl6p6vqippnjx6wshqpj</sha1>
     </revision>
   </page>
